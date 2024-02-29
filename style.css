@@ -261,13 +261,17 @@ section{
 }
 
 .about-pic{
-	border-radius: 2rem;
+	border-radius: 50%;
 }
 
 .arrow{
 	position: absolute;
 	right: 0.1rem;
 	bottom: 2.5rem;
+}
+
+.text-exp{
+	font-size: 14px;
 }
 
 .details-container{
